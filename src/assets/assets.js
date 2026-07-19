@@ -122,7 +122,7 @@ export const albumsData = [
 export const songsData = [
     {
         id:0,
-        name: "Cartoon, Jéja - On & On feat. Daniel Levi",
+        name: "On & On ",
         image: img1,
         file:song1,
         desc:"Put a smile on your face with these happy tunes",
@@ -130,7 +130,7 @@ export const songsData = [
     },
     {
         id:1,
-        name: "Elektronomia - Sky High | Progressive House NCS -",
+        name: "Sky High NCS",
         image: img2,
         file:song2,
         desc:"Put a smile on your face with these happy tunes",
@@ -138,7 +138,7 @@ export const songsData = [
     },
     {
         id:2,
-        name: "Heroes Tonight - Janji feat. Johnning ",
+        name: "Heroes Tonight",
         image: img3,
         file:song3,
         desc:"Put a smile on your face with these happy tunes",
@@ -146,7 +146,7 @@ export const songsData = [
     },
     {
         id:3,
-        name: "LSD - Genius ft. Sia, Diplo, Labrinth",
+        name: "LSD - Genius",
         image: img4,
         file:song4,
         desc:"Put a smile on your face with these happy tunes",
@@ -154,7 +154,7 @@ export const songsData = [
     },
     {
         id:4,
-        name: "Olivia Dean - So Easy (To Fall In Love)",
+        name: "So Easy",
         image: img5,
         file:song5,
         desc:"Put a smile on your face with these happy tunes",
@@ -162,7 +162,7 @@ export const songsData = [
     },
     {
         id:5,
-        name: "W&W vs. Nicky Romero - Ups & Downs",
+        name: "Ups & Downs",
         image: img14    ,
         file:song6,
         desc:"Put a smile on your face with these happy tunes",
@@ -178,7 +178,7 @@ export const songsData = [
     },
     {
         id:7,
-        name: "TroyBoi - Afterhours (feat. Diplo & Nina Sky)",
+        name: "TroyBoi - Afterhours",
         image: img12,
         file:song8,
         desc:"Put a smile on your face with these happy tunes",
